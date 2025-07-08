@@ -43,7 +43,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - **Member 19**: Frank Gangone, CEO [Knife Horse Technologies](https://www.linkedin.com/in/frank-gangone-90920238/). 
 - **Member 20**: Sarah Yandell, [Student](https://www.linkedin.com/in/yandell-sarah/)
 - **Member 21**: Alicia Swimmer, [Rosebud Sioux Tribe-Zuya Tawa](https://www.linkedin.com/in/aliciaswimmer/)
-- **Member22**: Jackson Furlong, [Sinte Gleska University](https://www.sintegleska.edu/)
+- **Member 22**: Jackson Furlong, [Sinte Gleska University](https://www.sintegleska.edu/)
 
 ## Meeting Notes and Agendas
 
