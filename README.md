@@ -20,12 +20,12 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Find comprehensive guides, tutorials, and additional resources.
 
 ## Project Proposal
-[Link to the detailed project proposal document or include it directly in the repository. Outline the goals, methodologies, anticipated challenges, and projected timelines.]
+[Project Proposal](https://docs.google.com/document/d/1Zyn74ojGFBTSYp8-2dNQ1ouPXgdZeUnC/edit)
 
 ## Group Members
 - Member 1: PI: Phil Two Eagle
 - Member 2: Co-PI: Elisha Wakinyan Zi Yellow Thunder
-- Member 3: Technical Lead: Lilly Jones-Sanovia
+- Member 3: Technical Lead: [Lilly Jones](https://github.com/lijo8146)
 - Member 4: Robin O'Malley
 - Member 5: Justina White Eyes
 - Member 6: [Robert Newman](https://robert.newman.github.io)
@@ -35,7 +35,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 10: Camille Griffith
 - Member 11: [Brian S Yandell](https://byandell.github.io)
 - Member 12: James Rattling Leaf
-- Member 13: Robert Michell Rabin
+- Member 13: [Robert Michell Rabin](https://meteoralert.github.io/mywebsite)
 - Member 14: James Sanovia
 - Member 15: [Patrick Freeland](https://www.linkedin.com/in/patrickfreeland/)
 - Member 16: Paula Antoine

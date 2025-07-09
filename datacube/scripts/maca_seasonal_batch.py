@@ -49,7 +49,7 @@ ALL_MODELS = [
 ]
 
 SCENARIOS = {
-    'historical': {'start': 1950, 'end': 2005},
+    'historical': {'start': 1950, 'end': 2025},
     'rcp45': {'start': 2006, 'end': 2099},
     'rcp85': {'start': 2006, 'end': 2099},
 }
